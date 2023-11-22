@@ -1,0 +1,73 @@
+#!/bin/bash
+
+
+
+frame_um(){
+
+
+echo "       /''''''''''''''''\ "
+echo "      /''''''''''''''''''\ "
+echo "     '                    | "
+echo "    |        ´´´´    ´´´´´ "
+echo "   /'\           0    \0  | "
+echo "  |                    \  | "
+echo "   \_|               \__) | "
+echo "     |                    | "
+echo "     |         \________/ | "
+echo "      \_________ ________/ "
+echo "           ____| |_____"
+echo "         / |    V     |\ "
+echo "         | |          || "
+echo "         | |          || "
+echo "         | |          || "
+echo "         | |          || "
+echo "         | |__________|| "
+echo "        /  |          | \ "
+echo "        \__|     Y    |_| "
+echo "           |     |    | "
+
+}
+
+
+
+
+
+
+
+frame_dois(){
+
+
+echo "       /''''''''''''''''\ "
+echo "      /''''''''''''''''''\ "
+echo "     |                    | "
+echo "     |     ´´´´    ´´´´´  | "
+echo "   /'\      0    | 0      /'\ "
+echo "  |              |        |  |"
+echo "   \_|       ( _  _ )     |_/"
+echo "     |                    | "
+echo "     |     \________/     |"
+echo "      \_________ ________/"
+echo "           ____| |_____"
+echo "         / |    V     |\ "
+echo "         | |          || "
+echo "         | |          || "
+echo "         | |          ||"
+echo "         | |          ||"
+echo "         | |__________||"
+echo "        /  |          | \ "
+echo "        \__|     Y    |_|"
+echo "           |     |    |"
+}
+
+clear
+frame_um
+sleep 1
+clear
+frame_dois
+sleep 1
+clear
+frame_um
+clear
+sleep 1
+frame_dois
+clear
